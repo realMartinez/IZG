@@ -1,0 +1,4 @@
+C:\Users\Martin\Desktop\izg_lab_03\Debug\izg.exe
+C:\Users\Martin\Desktop\izg_lab_03\Debug\izg.pdb
+C:\Users\Martin\Desktop\skola\izg_lab_03\Debug\izg.exe
+C:\Users\Martin\Desktop\skola\izg_lab_03\Debug\izg.pdb

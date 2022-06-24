@@ -1,0 +1,5 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  student.cpp
+C:\Users\Martin\Desktop\skola\izg_lab_03\src\student.cpp(261,6): warning C4101: 'deltaY': unreferenced local variable
+C:\Users\Martin\Desktop\skola\izg_lab_03\src\student.cpp(260,6): warning C4101: 'deltaX': unreferenced local variable
+  izg.vcxproj -> C:\Users\Martin\Desktop\skola\izg_lab_03\Debug\izg.exe
