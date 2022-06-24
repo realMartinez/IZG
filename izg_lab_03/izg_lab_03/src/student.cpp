@@ -14,6 +14,15 @@
 #include "globals.h"
 #include <math.h>
 
+/******************************************************************************
+ ******************************************************************************
+ * Funkce doplní student dle zadání*/
+
+ /* 
+ * Author: Martin Olšiak
+ * login: xolsia00
+ * /
+
 /**
  * @brief Vraci barvu pixelu z pozice [x, y]
  * @param[in] x X souradnice pixelu

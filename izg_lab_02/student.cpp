@@ -15,6 +15,15 @@
 #include "student.h"
 #include "globals.h"
 
+/******************************************************************************
+ ******************************************************************************
+ * Funkce doplní student dle zadání*/
+
+ /* 
+ * Author: Martin Olšiak
+ * login: xolsia00
+ * /
+
  // Header standardni knihovny obsahujici funci swap.
 #include <memory>
 // Zjednoduseni zapisu, napr. std::swap -> swap.
